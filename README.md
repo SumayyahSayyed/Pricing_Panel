@@ -19,7 +19,7 @@ A responsive pricing panel for practicing the flexbox.
 ### Screenshot
 
 ![](My-Design/Desktop.png)
-![](My-Design/Mobile.JPG)
+![](My-Design/Mobile.png)
 
 ### Links
 
