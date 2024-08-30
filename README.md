@@ -25,8 +25,6 @@ A responsive pricing panel for practicing the flexbox.
 
 - Live Site URL: [https://sumayyahsayyed.github.io/Pricing_Panel/]
 
-## Process
-
 ### Built with
 
 - Semantic HTML5 markup
